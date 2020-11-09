@@ -72,7 +72,6 @@ public class LambdaHomework {
         double pownum1 = scanner.nextDouble();
         TestBinaryOperator<Double> binaryOperator2 = (t1, t2) -> Math.pow(t1,t2);
         System.out.println(pownum+" in pow "+pownum1+" is "+binaryOperator2.apply(pownum,pownum1));
-        System.out.println("shit");
 
 
     }
