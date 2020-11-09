@@ -1,5 +1,5 @@
 package HomeworkOn1405;
-
+//g
 public abstract class FigureImpl implements Figure {
     private int sideA;
     private int sideB;

@@ -1,7 +1,7 @@
 package HomeworkOn1405;
 
 import java.util.Scanner;
-
+//g
 
 public class Main {
 

@@ -159,6 +159,7 @@ class Pyramida extends FigureImpl implements Figure3D{
     public String toString() {
         String info = String.format("Pyramida {sideA: %d, sideB: %d, height: %d, volume: %f perimetr: %f }",getSideA(), getSideA(),getHeight(), calculateVolume(),calculatePerimeter());
         return info;
+        //g
     }
 }
 
